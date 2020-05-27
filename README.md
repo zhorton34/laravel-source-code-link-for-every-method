@@ -1,5 +1,6 @@
-### Laravel 7.x API ~ Title & Link To Every Source Code Method (I think)
 
+**README.md Doesn't load everything**
+- [Raw JSON](https://raw.githubusercontent.com/zhorton34/laravel-api-source-code-for-every-method/master/laravel-7.x-api-methods.json)
 ```js
 {
   "meta": {
